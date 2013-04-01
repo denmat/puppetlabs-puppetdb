@@ -8,5 +8,4 @@ license 'Apache'
 project_page 'https://github.com/denmat/puppetlabs-puppetdb'
 
 dependency 'cprice404/inifile', '>= 0.9.0'
-dependency 'denmat/postgresql', '>= 2.1.1'
 dependency 'puppetlabs/firewall', '>= 0.0.4'
